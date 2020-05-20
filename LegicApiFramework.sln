@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegicApiFramework", "LegicApiFramework\LegicApiFramework.csproj", "{A97DC443-8C31-41ED-BB86-4AD2AA06A1BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{78CEC2F1-6039-4B00-AB1B-858BEED76A1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A97DC443-8C31-41ED-BB86-4AD2AA06A1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97DC443-8C31-41ED-BB86-4AD2AA06A1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97DC443-8C31-41ED-BB86-4AD2AA06A1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97DC443-8C31-41ED-BB86-4AD2AA06A1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78CEC2F1-6039-4B00-AB1B-858BEED76A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CEC2F1-6039-4B00-AB1B-858BEED76A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CEC2F1-6039-4B00-AB1B-858BEED76A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CEC2F1-6039-4B00-AB1B-858BEED76A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F79EFC82-2C79-4080-B96F-45BF4FD0A037}
+	EndGlobalSection
+EndGlobal
